@@ -1,0 +1,5 @@
+{
+  "usingComponents": {
+    "pin": "/pages/index/components/pin"
+  }
+}

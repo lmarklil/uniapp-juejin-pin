@@ -1,0 +1,1 @@
+<view class="pins"><block wx:for="{{pins}}" wx:for-item="pin" wx:for-index="index" wx:key="id"><pin vue-id="{{'8dd740cc-1-'+index}}" pin="{{pin}}" bind:__l="__l"></pin></block><view hidden="{{!(loading)}}" class="pins-loading">加载中</view></view>

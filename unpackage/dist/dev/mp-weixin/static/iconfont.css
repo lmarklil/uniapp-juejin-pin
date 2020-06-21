@@ -1,0 +1,25 @@
+@font-face {font-family: "iconfont";
+  src: url('iconfont.eot?t=1592537081673'); /* IE9 */
+  src: url('iconfont.eot?t=1592537081673#iefix') format('embedded-opentype'), /* IE6-IE8 */
+  url('data:application/x-font-woff2;charset=utf-8;base64,d09GMgABAAAAAAPEAAsAAAAAB/QAAAN2AAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAHEIGVgCCfgqDYIMeATYCJAMMCwgABCAFhG0HOhvgBlGUDUqX7OeAu7nMhta3PANrNdbYMlnKysz8ko1M8fC13+/c3f2KSYMkmhiiScZDEk2URoJMK1QPiYyX8O5/bodoSff6NiSSTJP2yf2J3w7ttExKhAih8ToT4/JBzlLbrUqKUjMa6JKD9Xkup3dbdNQHynGsaWPa4qNegHFAge2JbeE2SOQJYMPYlRexnUDbKE1pc3t7gKbC6BeI6wvXhGbKrdSUhqZQL5laxD2oZrpNS7jzPx//5qNJUsuMoTunMweGX11f3Tm5SubnEjTjBcFmkTEHFOKoNLyjEmbnVLSVbNUYWFe74Ku7+uery1Wv9g+PkIg6o7gTTEFnckYa2+zUNDAn4dxnUUcTDwCmTyGWUgkGHeNCGEyMcbrY7W1hMoODnt4WUDhbbs1bZpjcTho4pY7uSa/q5/Ob+FVV7pRqBqP0Z5cCYfMW2XT2rqfnrgWqspfeBqyd0nADocFJ29vuoK0tN5RbeTuN5oGa2RGhgXd3PeNxA2scUMO6OjqP6u5ZRaejhzf54MYNDbe8jprk6nZUZ29Kn0d8m019jf/WkEA3Do8tOuakY4aCORJSCL6nznotPxgeZwX7GIC4dzNdNnBs/ckx0XFyin5V8iorCxPn9MpYo03QXghrmBnxeE2cm22Mqpe+uc9TygP8/xsDvdwgxllAYzcvY0iVj3OEcrrQ37X4wdM5AVayG8wQEOQskQmjhrSiEp2tHCzcgpWac7PU97F+06xpP6xSr1RvHyBBGPFjLZTG4L0+CAJM1S/LqD5zc/6H3/GOuHoKxC++NtEFfJB2/n6k+izXZ23eZST4Y5qWVUW1wZYiq221XsgO1d6JS1uNqRjxft/+1qHWxYSmoRhJwwiypjGysHOo6bCAuqYVtM1azO4wgFVEaWHGEyD0eiHp9ois15ss7Ac1w36o642MtqMYWLLDRFy0N27IFHLQuqNvp4myfNIOSnfkniOTkzpfOBEXfgJ7CkrZwoIS4jFGFBe3L6JQcRrjHOxGUZRixmlAthieSDboKEaUXcmw0xjaNjBiEsSBLHfIZ0sllFtftHPv3yGus4iJa2QV1RPCCn7zqMfQbUEuzEkr2bXsU7hw9QmhIIWlYmgOgiQysymUlXcKEJsweD3SmYEOqqXamo35rfHzbYA2Y0iOFDmKxvGFmTysVP364nz3XAAAAA==') format('woff2'),
+  url('iconfont.woff?t=1592537081673') format('woff'),
+  url('iconfont.ttf?t=1592537081673') format('truetype'), /* chrome, firefox, opera, Safari, Android, iOS 4.2+ */
+  url('iconfont.svg?t=1592537081673#iconfont') format('svg'); /* iOS 4.1- */
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-like:before {
+  content: "\e6a7";
+}
+
+.icon-comment:before {
+  content: "\e6a8";
+}
+
